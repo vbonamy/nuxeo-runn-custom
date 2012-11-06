@@ -1,0 +1,4 @@
+.nxFooter .nuxLinks,
+.nxFooter .unregistered { 
+display: none !important;
+}
